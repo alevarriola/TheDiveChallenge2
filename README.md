@@ -39,7 +39,7 @@ El repositorio contiene varias versiones del juego, organizadas en carpetas:
 - Compilación:
 Asegúrate de tener un compilador de C++ instalado. Luego, compila el programa con:
 
-    g++ main.cpp juego.cpp logica.cpp -o laberinto
+        g++ main.cpp juego.cpp logica.cpp -o laberinto
 
 ### Con Microsoft Visual Studio 🟣
 Asegúrate de estar en el archivo Main.cpp:
