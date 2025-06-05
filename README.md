@@ -7,9 +7,7 @@
 - Generación de laberintos: Crea laberintos aleatorios con múltiples caminos o con un único camino seguro.
 - Resolución automática: Implementa el algoritmo de búsqueda en anchura (BFS) para encontrar la salida del laberinto.
 - Modo de juego interactivo: Permite al usuario moverse dentro del laberinto utilizando comandos.
-- Elementos especiales:
-    - Portales (A y B): Transportan al jugador de una ubicación a otra y desaparecen tras su uso.
-    - (Próximamente): Trampas y puertas que añaden desafíos adicionales.
+- Elementos especiales: Portales (A y B): Transportan al jugador de una ubicación a otra y desaparecen tras su uso.
 
 ## 📁 Estructura del Repositorio
 
